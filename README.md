@@ -1,4 +1,8 @@
 # **VSphere Charmed Kubernetes with Juju**
+<p align="center">
+<img src="pic/ludes.png" width="500">
+</p>
+
 ### **How To**
 1. Clone repo
 ```
