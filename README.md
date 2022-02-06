@@ -125,3 +125,4 @@ kubectl apply -f pod.yaml
 4. [Github vSphere Cloud Provider](https://github.com/kubernetes/cloud-provider-vsphere/tree/master/releases)
 5. [VMware Doc vSphere Cloud Provider](https://docs.vmware.com/en/VMware-vSphere-Container-Storage-Plug-in/2.0/vmware-vsphere-csp-getting-started/GUID-0C202FC5-F973-4D24-B383-DDA27DA49BFA.html)
 6. [Kubernetes Storage Classes](https://kubernetes.io/docs/concepts/storage/storage-classes/#vsphere)
+7. [How to make the controller highly available](https://juju.is/docs/olm/high-availability-juju-controller)
